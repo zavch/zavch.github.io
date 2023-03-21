@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zavch的博客</title>
+    <link>https://zavch.github.io/</link>
+    <description>Recent content on zavch的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Mar 2023 10:38:40 +0800</lastBuildDate><atom:link href="https://zavch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的Github主页</title>
+      <link>https://zavch.github.io/posts/my-github/</link>
+      <pubDate>Tue, 21 Mar 2023 10:38:40 +0800</pubDate>
+      
+      <guid>https://zavch.github.io/posts/my-github/</guid>
+      <description>Github主页</description>
+    </item>
+    
+  </channel>
+</rss>
